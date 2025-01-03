@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning stuff about cybersecurity and cryptography. 
 - A Mathematics / Cryptography Major
 - 😄 Pronouns: GNU/Linux
-- ⚡ Fun fact: I like finite groups, and morphisms.  
+- ⚡ Fun fact: I like algebra and low level programming.  
 
 <!---
 just-piskounov/just-piskounov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
